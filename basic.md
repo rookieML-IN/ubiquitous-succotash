@@ -1,0 +1,1 @@
+1. The first sanity check for numeric data is whether the magnitude matters.
